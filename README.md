@@ -4,3 +4,15 @@
 #### h4 大学习
 
 [百度一下](https://www.baidu.com/)
+
+## 代码
+
+Inline `code`
+
+Indented code
+
+    // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
+
