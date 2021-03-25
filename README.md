@@ -15,4 +15,13 @@ Indented code
     line 1 of code
     line 2 of code
     line 3 of code
+    
+**我是大帅比**
 
+__我是大帅比__
+
+*大帅比是我*
+
+_我是大帅比_
+
+~~我信你个鬼~~
